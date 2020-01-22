@@ -1,0 +1,41 @@
+{
+    "flights": [
+        {
+            "departure": "Montreal airport",
+            "departureCode": "YUL",
+            "arrival": "Toronto",
+            "arrivalCode": "YYZ",
+            "day": "1",
+        }, {
+            "departure": "Montreal",
+            "departureCode": "YUL",
+            "arrival": "Calgary",
+            "arrivalCode": "YYC",
+            "day": "1",
+        }, {
+            "departure": "Montreal",
+            "departureCode": "YUL",
+            "arrival": "Vancouver",
+            "arrivalCode": "YVR",
+            "day": "1",
+        }, {
+            "departure": "Montreal",
+            "departureCode": "YUL",
+            "arrival": "Toronto",
+            "arrivalCode": "YYZ",
+            "day": "2",
+        }, {
+            "departure": "Montreal",
+            "departureCode": "YUL",
+            "arrival": "Calgary",
+            "arrivalCode": "YYC",
+            "day": "2",
+        }, {
+            "departure": "Montreal",
+            "departureCode": "YUL",
+            "arrival": "Vancouver",
+            "arrivalCode": "YVR",
+            "day": "2",
+        },
+    ]
+}
